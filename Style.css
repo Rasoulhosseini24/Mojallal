@@ -392,7 +392,7 @@ text-transform: none;
 
 
     #bgnav{
-      background-size: contain;
+      background-size: contain !important;
          
     }
 
