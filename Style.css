@@ -859,4 +859,6 @@ text-transform: none;
         object-position: center;
         object-fit: contain;
         height: 80vh !important;
+        border: 1px solid red;
+
       }
